@@ -1,1 +1,2 @@
 welcome to 1.txt in github
+lets write the code to use pull command
